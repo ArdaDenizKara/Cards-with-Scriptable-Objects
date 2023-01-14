@@ -12,4 +12,6 @@ Clone the project to your computer.
 
 ![giphy](https://user-images.githubusercontent.com/56769449/212497111-d2ffff6c-1d22-4b15-9efd-aa4d857474b6.gif)
 
+You can add new cards and you can edit them.
+![image](https://user-images.githubusercontent.com/56769449/212497269-f8fd7056-57dc-421f-878c-64957374ca5d.png)
 
