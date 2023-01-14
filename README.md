@@ -19,3 +19,8 @@ After Creating a Card you can edit : "Card Name , HealthValue , Damage Value, En
 ```
 ![image](https://user-images.githubusercontent.com/56769449/212497269-f8fd7056-57dc-421f-878c-64957374ca5d.png)
 
+# 📜 Card Script
+In Card script , you can add new variables and you can edit them on  Card Scriptable Object
+
+# 📜 DisplayCard Script
+With DisplayCard Script we show our cards on gameplay 
